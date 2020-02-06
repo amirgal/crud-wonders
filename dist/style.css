@@ -44,3 +44,11 @@ body{
 .not-visited{
     background-color: #ef5777;
 }
+
+.delete{
+    font-weight: bold;
+    font-size: 0.8em;
+    cursor: pointer;
+    color: #3c40c6;
+    align-self: center;
+}
